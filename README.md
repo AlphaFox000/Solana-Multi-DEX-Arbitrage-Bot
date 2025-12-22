@@ -126,7 +126,7 @@ make stop
 pm2 logs
 ```
 
-# Architecture
+## Architecture
 
 The bot is structured into several key modules:
 
@@ -137,12 +137,14 @@ The bot is structured into several key modules:
 - **`record/`** - Transaction logging and data persistence
 - **`common/`** - Shared configuration and utilities
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This software is provided "as is" without warranty. Use at your own risk. Always conduct thorough testing before deploying to mainnet. Some implementation details may be omitted for security reasons.
 
-# 🚀 Support
+## 🚀 Support
 
 For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
 https://github.com/AlphaFox000/
 
+## ⭐ Star this repository 
+If you find it useful! Your support helps us continue developing and improving this tool.
