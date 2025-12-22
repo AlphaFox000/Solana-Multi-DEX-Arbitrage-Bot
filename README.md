@@ -39,7 +39,7 @@ The bot supports the following decentralized exchanges:
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:AV1080p/Solana-Arbitrage-Bot.git
+git clone https://github.com/AlphaFox000/Solana-Multi-DEX-Arbitrage-Bot.git
 cd Solana-Arbitrage-Bot
 ```
 
