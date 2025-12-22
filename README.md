@@ -1,5 +1,5 @@
 
-# Solana Arbitrage Bot
+# Solana Multi-Dex Arbitrage Bot
 
 ## Overview
 A high-performance Rust-based arbitrage bot for Solana that monitors price differences across multiple DEXes and executes profitable trades automatically. This bot supports multiple DEX types including PumpSwap, Raydium (AMM, CLMM, CPMM), Orca Whirlpool, and Meteora (DLMM, Pools), providing comprehensive coverage of the Solana DeFi ecosystem.
