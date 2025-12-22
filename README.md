@@ -137,11 +137,12 @@ The bot is structured into several key modules:
 - **`record/`** - Transaction logging and data persistence
 - **`common/`** - Shared configuration and utilities
 
-# Risk Disclaimer
+# ⚠️ Disclaimer
 
-⚠️ **Important**: This software is for educational and research purposes. Trading cryptocurrencies involves substantial risk of loss. The authors are not responsible for any financial losses. Always test with small amounts first and understand the risks involved.
+This software is provided "as is" without warranty. Use at your own risk. Always conduct thorough testing before deploying to mainnet. Some implementation details may be omitted for security reasons.
 
-# Support
+# 🚀 Support
 
 For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
 https://github.com/AlphaFox000/
+
