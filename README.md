@@ -141,6 +141,7 @@ The bot is structured into several key modules:
 
 ⚠️ **Important**: This software is for educational and research purposes. Trading cryptocurrencies involves substantial risk of loss. The authors are not responsible for any financial losses. Always test with small amounts first and understand the risks involved.
 
-# License
+# Support
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+For more detailed information, advanced configuration, or collaboration inquiries, please reach out to me directly.
+https://github.com/AlphaFox000/
